@@ -1,0 +1,13 @@
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\bin\Debug\QAWebsite.exe.config
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\bin\Debug\QAWebsite.exe
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\bin\Debug\QAWebsite.pdb
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.csproj.AssemblyReference.cache
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.Form1.resources
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.LoginPage.resources
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.Properties.Resources.resources
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.csproj.GenerateResource.cache
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.exe
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.pdb
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.DashboardPage.resources
+C:\Users\Coordinators\source\repos\QAWebsite\QAWebsite\obj\Debug\QAWebsite.DetailedReportPage.resources
